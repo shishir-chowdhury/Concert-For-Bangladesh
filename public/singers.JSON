@@ -10,7 +10,7 @@
     {
         "name": "Rob Bourdon",
         "id": 2,
-        "img": "https://assets.blabbermouth.net/media/robbourdonsolo2013_638.jpg",
+        "img": "https://i.pinimg.com/originals/39/a2/d8/39a2d8f3226a3c6ed21872ab5e11c335.jpg",
         "salary": 1256,
         "band": "linkin park",
         "position": "Drum Kit"
@@ -26,7 +26,7 @@
     {
         "name": "Dave Farrell",
         "id": 4,
-        "img": "https://en.wikipedia.org/wiki/Dave_Farrell#/media/File:Dave_Farrell_2014.JPG",
+        "img": "https://www.nme.com/wp-content/uploads/2018/12/2018_davefarrell_getty_2000x1270-696x442.jpg",
         "salary": 123456,
         "band": "linkin park",
         "position": "Bass Guitar"
@@ -58,7 +58,7 @@
     {
         "name": "James Hetfield",
         "id": 8,
-        "img": "https://en.wikipedia.org/wiki/James_Hetfield#/media/File:James_Hetfield_2017.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/James_Hetfield_2017.jpg",
         "salary": 6549,
         "band": "Metallica",
         "position": "Guitar"
@@ -66,7 +66,7 @@
     {
         "name": "Lars Ulrich",
         "id": 9,
-        "img": "https://en.wikipedia.org/wiki/Lars_Ulrich#/media/File:Lars_Ulrich_(26060414430).jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lars_Ulrich_%2826060414430%29.jpg",
         "salary": 9878,
         "band": "Metallica",
         "position": "Acoustic Drum Kit "
@@ -74,7 +74,7 @@
     {
         "name": "Cliff Burton",
         "id": 10,
-        "img": "https://en.wikipedia.org/wiki/Cliff_Burton#/media/File:Bass_burton.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Bass_burton.jpg",
         "salary": 7854,
         "band": "Metallica",
         "position": "Bass Guitar"
@@ -82,14 +82,14 @@
     {
         "name": "Kirk Hammett",
         "id": 11,
-        "img": "https://en.wikipedia.org/wiki/Kirk_Hammett#/media/File:Kirk_Hammett_2017.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kirk_Hammett_2017.jpg",
         "salary": 9856,
         "band": "Metallica"
     },
     {
         "name": "Jason Newsted",
         "id": 12,
-        "img": "https://en.wikipedia.org/wiki/Jason_Newsted#/media/File:13-06-09_RaR_Newsted_14.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/13-06-09_RaR_Newsted_14.jpg",
         "salary": 4598,
         "band": "Metallica"
     }
