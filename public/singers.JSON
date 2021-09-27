@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Chester Bennington",
+        "id": 1,
+        "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2017/07/23/594930-chester-bennington.jpg",
+        "salary": 1234,
+        "band": "linkin park",
+        "position": "Lead Vocalist"
+    },
+    {
+        "name": "Rob Bourdon",
+        "id": 2,
+        "img": "https://assets.blabbermouth.net/media/robbourdonsolo2013_638.jpg",
+        "salary": 1256,
+        "band": "linkin park",
+        "position": "Drum Kit"
+    },
+    {
+        "name": "Mike Shinoda",
+        "id": 3,
+        "img": "https://loudwire.com/files/2015/04/Mike-Shinoda.jpg",
+        "salary": 4532,
+        "band": "linkin park",
+        "position": "Piano"
+    },
+    {
+        "name": "Dave Farrell",
+        "id": 4,
+        "img": "https://en.wikipedia.org/wiki/Dave_Farrell#/media/File:Dave_Farrell_2014.JPG",
+        "salary": 123456,
+        "band": "linkin park",
+        "position": "Bass Guitar"
+    },
+    {
+        "name": "Joe Hahn",
+        "id": 5,
+        "img": "https://www.nme.com/wp-content/uploads/2019/04/GettyImages-687063766-696x442.jpg",
+        "salary": 8765,
+        "band": "linkin park",
+        "position": "TurnTable"
+    },
+    {
+        "name": "Brad Delson",
+        "id": 6,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0496.jpg",
+        "salary": 7854,
+        "band": "linkin park",
+        "position": "Bass Guitar"
+    },
+    {
+        "name": "Scott Koziol",
+        "id": 7,
+        "img": "https://shoutoutla.com/wp-content/uploads/2020/09/c-PersonalScottKoziol__Scott_Koziol_SCL_Blue_1598869312522.jpg",
+        "salary": 123456,
+        "band": "linkin park",
+        "position": "Bass Guitar"
+    },
+    {
+        "name": "James Hetfield",
+        "id": 8,
+        "img": "https://en.wikipedia.org/wiki/James_Hetfield#/media/File:James_Hetfield_2017.jpg",
+        "salary": 6549,
+        "band": "Metallica",
+        "position": "Guitar"
+    },
+    {
+        "name": "Lars Ulrich",
+        "id": 9,
+        "img": "https://en.wikipedia.org/wiki/Lars_Ulrich#/media/File:Lars_Ulrich_(26060414430).jpg",
+        "salary": 9878,
+        "band": "Metallica",
+        "position": "Acoustic Drum Kit "
+    },
+    {
+        "name": "Cliff Burton",
+        "id": 10,
+        "img": "https://en.wikipedia.org/wiki/Cliff_Burton#/media/File:Bass_burton.jpg",
+        "salary": 7854,
+        "band": "Metallica",
+        "position": "Bass Guitar"
+    },
+    {
+        "name": "Kirk Hammett",
+        "id": 11,
+        "img": "https://en.wikipedia.org/wiki/Kirk_Hammett#/media/File:Kirk_Hammett_2017.jpg",
+        "salary": 9856,
+        "band": "Metallica"
+    },
+    {
+        "name": "Jason Newsted",
+        "id": 12,
+        "img": "https://en.wikipedia.org/wiki/Jason_Newsted#/media/File:13-06-09_RaR_Newsted_14.jpg",
+        "salary": 4598,
+        "band": "Metallica"
+    }
+]
