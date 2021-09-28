@@ -17,4 +17,5 @@
 }
 .header nav a:hover{
     background-color: burlywood;
+    border-radius: 5px;
 }

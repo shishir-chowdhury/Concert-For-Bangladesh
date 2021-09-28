@@ -1,6 +1,7 @@
 .shop-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
+    background-color: lightcyan;
 }
 .product-container{
     border-right: 1px solid lightgray;

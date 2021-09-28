@@ -11,11 +11,11 @@ const Cart = (props) => {
     }
     return (
         <div>
-            <h3>order summary</h3>
+            <h3>Order Summary</h3>
             <h5>Item Orders: {props.cart.length}</h5>
-            <h5>Name: {cartName}</h5>
+            <h5>Names: {cartName}</h5>
             <br />
-            <h5>Total Salary: {total}</h5>
+            <h5>Total Salary: ${total}</h5>
         </div>
     );
 };

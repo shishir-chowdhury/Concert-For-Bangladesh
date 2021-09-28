@@ -1,14 +1,19 @@
-
 .singer-image{
     width: 400px;
     height: 300px;
 }
 .btn-regular{
-    background-color: goldenrod;
+    background-color: aqua;
     width: 150px;
     height: 30px;
     border: 1px solid lightgray;
     border-radius: 8px;
     cursor: pointer;
 
+}
+.b-color {
+    background-color: antiquewhite;
+}
+.card-body{
+    text-align: center;
 }
