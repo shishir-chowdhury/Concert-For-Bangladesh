@@ -3,3 +3,12 @@
     width: 400px;
     height: 300px;
 }
+.btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    cursor: pointer;
+
+}

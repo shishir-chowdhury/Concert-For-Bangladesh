@@ -2,7 +2,7 @@ import React from 'react';
 import './Singer.css';
 
 const Singer = (props) => {
-    console.log(props.singer);
+    // console.log(props);
     const { name, id, img, salary, band, position } = props.singer;
     return (
         <div className="singers container col-md-3">
@@ -15,7 +15,10 @@ const Singer = (props) => {
                         <p className="card-text">Position: {position}</p>
                         <p className="card-text">Band Name: {band}</p>
                         <p className="card-text">Salary: {salary}</p>
-                        <button>add to cart</button>
+                        <button
+                            onClick={() => props.handleAddToCart(props.singer)}
+                            className="btn-regular"
+                        >Hire now</button>
                     </div>
                 </div>
             </div>
